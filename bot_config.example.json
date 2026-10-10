@@ -1,0 +1,29 @@
+{
+  "token": "",
+  "guild_id": "",
+  "allowed_user_ids": [],
+  "paypay_token_file": "paypay_token.json",
+  "python_realip": "",
+  "ticket_category_id": "",
+  "ticket_channel_id": "",
+  "public_result_channel_id": "",
+  "menu_prices": {
+    "coin_max": 200,
+    "score_max": 200,
+    "level_max": 200,
+    "tsum_lv": 200,
+    "box": 300,
+    "coin": 200,
+    "score": 200,
+    "premium": 300
+  },
+  "select_box_id": 12007013,
+  "premium_gacha_id": 12007007,
+  "box_fallback_premium_box": false,
+  "premium_fill_coins": 160000000,
+  "free_unlimited_enabled": true,
+  "free_unlimited_ids": [],
+  "free_payment_user_id": 0,
+  "sales_file": "tsum_sales.json",
+  "free_used_file": "tsum_free_used.json"
+}
